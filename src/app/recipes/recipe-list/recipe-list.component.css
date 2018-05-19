@@ -1,0 +1,9 @@
+a{
+  text-transform: none;
+  color : inherit;
+}
+
+a :hover{
+  text-transform: none;
+  color : inherit;
+}
